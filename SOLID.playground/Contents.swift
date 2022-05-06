@@ -1,8 +1,5 @@
 import UIKit
 
-import UIKit
-import Darwin
-
 // 1 Single Responsibility Principle («Принцип единой ответственности», SRP)
 
 // Cоздадим протокол включатель
